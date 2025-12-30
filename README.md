@@ -6,7 +6,7 @@ The project highlights eco-friendly practices and encourages users to take small
 
 
 ##  Live Project
-[https://your-live-link-here](https://maisha-sultana.github.io/Green-Earth-Project/)
+Live Link- https://maisha-sultana.github.io/Green-Earth-Project/
 
 ## Technologies Used
 - HTML5
